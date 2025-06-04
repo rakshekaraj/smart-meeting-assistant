@@ -14,5 +14,10 @@ Smart Meeting Chrome Assistant is a lightweight Google Chrome extension that cap
 
 ---
 
-## 🏗️ Project Structure
+## ⚙️ Setup Instructions
 
+### 1. Clone the Repo
+
+```bash
+git clone https://github.com/YOUR_USERNAME/smart-meeting-chrome-assistant.git
+cd smart-meeting-chrome-assistant
